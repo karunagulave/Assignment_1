@@ -137,7 +137,7 @@ Some examples of insights that can be obtained:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/car-analysis.git
+git clone https://github.com/your_karunagulave/car-analysis.git
 ```
 
 2. Navigate to the project folder
